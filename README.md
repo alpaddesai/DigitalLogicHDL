@@ -9,5 +9,4 @@ All images are custom or have a reference name.
 ## Digital logic 8 bit processor
 ![image](CPUImage.png)
 
-## CPU Image
 ![image](DigitalLogicCPUImage.png)
