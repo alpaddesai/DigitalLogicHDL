@@ -7,7 +7,7 @@ Please click on the executable located in https://github.com/alpaddesai/DigitalL
 All images are custom or have a reference name.
 
 ## Digital Logic 8 bit processor
-![image](DigitalLogicCPUImage.png)
+![image](CPUImage.png)
 
 ## CPU Image
-![image](CPUImage.png)
+![image](DigitalLogicCPUImage.png)
