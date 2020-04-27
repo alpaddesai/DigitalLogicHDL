@@ -6,6 +6,8 @@ Please click on the executable located in https://github.com/alpaddesai/DigitalL
 
 All images are custom or have a reference name.
 
+## Digital Logic 
 ![image](DigitalLogicCPUImage.png)
 
+## CPU Image
 ![image](CPUImage.png)
