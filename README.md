@@ -8,6 +8,8 @@ All images are custom or have a reference name.
 
 ## Digital logic 8 bit processor
 ### Using ModelSim student evaluation version
+## Utilizing Verilog HDL
+
 ![image](CPUImage.png)
 
 ![image](DigitalLogicCPUImage.png)
