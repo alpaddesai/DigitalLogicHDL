@@ -13,3 +13,5 @@ All images are custom or have a reference name.
 ![image](CPUImage.png)
 
 ![image](DigitalLogicCPUImage.png)
+
+Advanced knowledge reference : https://github.com/alpaddesai/SystemVerilog
