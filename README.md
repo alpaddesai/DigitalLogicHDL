@@ -7,11 +7,10 @@ Please click on the executable located in https://github.com/alpaddesai/DigitalL
 All images are custom or have a reference name.
 
 ## Digital logic 8 bit processor
-### Using ModelSim student evaluation version
-### Utilizing Verilog HDL
-
 ![image](CPUImage.png)
 
+### Using ModelSim student evaluation version
+### Utilizing Verilog HDL
 ![image](DigitalLogicCPUImage.png)
 
 ## Traffic Controller Signal Problem
