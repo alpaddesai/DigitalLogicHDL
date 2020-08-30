@@ -16,4 +16,7 @@ All images are custom or have a reference name.
 ## Traffic Controller Signal Problem
 ![image](TrafficControllerExample.png)
 
+## Verilog Language
+![image]
+
 Advanced knowledge reference : https://github.com/alpaddesai/SystemVerilog
