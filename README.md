@@ -17,6 +17,6 @@ All images are custom or have a reference name.
 ![image](TrafficControllerExample.png)
 
 ## Verilog Language
-![image]
+![image](VerilogLanguageandApplication.jpg)
 
 Advanced knowledge reference : https://github.com/alpaddesai/SystemVerilog
