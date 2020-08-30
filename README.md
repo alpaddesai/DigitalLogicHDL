@@ -14,4 +14,7 @@ All images are custom or have a reference name.
 
 ![image](DigitalLogicCPUImage.png)
 
+## Traffic Controller Signal Problem
+![image](TrafficControllerExample.png)
+
 Advanced knowledge reference : https://github.com/alpaddesai/SystemVerilog
