@@ -22,3 +22,5 @@ All images are custom or have a reference name.
 Advanced knowledge reference : https://github.com/alpaddesai/SystemVerilog
 
 ![image](USCopyrightCertificateofRegistration.png)
+
+Additional details reference : https://github.com/alpaddesai/HardwareEngineeringLab4-
