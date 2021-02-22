@@ -19,6 +19,12 @@ All images are custom or have a reference name.
 ## Verilog Language
 ![image](VerilogLanguageandApplication.jpg)
 
+## Verilog
+![image](Verilog.jpg)
+
+## FPGA Design
+![image](DesigningFPGA.jpg)
+
 ## Interest
 ![image](image1.png)
 
