@@ -28,7 +28,7 @@ All images are custom or have a reference name.
 ## Interest
 ![image](image1.png)
 
-Advanced knowledge reference : https://github.com/alpaddesai/PowerandInfluentialSkills,  https://github.com/alpaddesai/SystemVerilog
+Advanced knowledge reference : https://github.com/alpaddesai/PowerandInfluentialSkills,  https://github.com/alpaddesai/SystemVerilog and https://github.com/alpaddesai/ComputerArchitecture
 
 ![image](USCopyrightCertificateofRegistration.png)
 
