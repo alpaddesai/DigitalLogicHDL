@@ -25,6 +25,9 @@ All images are custom or have a reference name.
 ## FPGA Design
 ![image](DesigningFPGA.jpg)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
+
 ## Interest
 ![image](image1.png)
 
