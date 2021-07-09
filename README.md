@@ -22,9 +22,6 @@ All images are custom or have a reference name.
 ## Verilog
 ![image](Verilog.jpg)
 
-## FPGA Design
-![image](DesigningFPGA.jpg)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
