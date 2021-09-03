@@ -22,6 +22,9 @@ All images are custom or have a reference name.
 ## Verilog
 ![image](Verilog.jpg)
 
+## Algorithms
+![image](SimulationsPerformanceMetrics.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
