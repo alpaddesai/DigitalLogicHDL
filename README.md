@@ -31,6 +31,6 @@ All images are custom or have a reference name.
 ## Interest
 ![image](image1.png)
 
-Advanced knowledge reference : https://github.com/alpaddesai/PowerandInfluentialSkills,  https://github.com/alpaddesai/SystemVerilog,  https://github.com/alpaddesai/ComputerArchitecture and https://github.com/alpaddesai/VerilogHDL
+Advanced knowledge reference : https://github.com/alpaddesai/PowerandInfluentialSkills,  https://github.com/alpaddesai/FirmwareDesign,  https://github.com/alpaddesai/ComputerArchitecture and https://github.com/alpaddesai/VerilogHDL
 
 Additional details reference : https://github.com/alpaddesai/HardwareEngineeringLab4-
