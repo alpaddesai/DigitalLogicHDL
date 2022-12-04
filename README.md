@@ -28,8 +28,6 @@ All images are custom or have a reference name.
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-Advanced knowledge reference : https://github.com/alpaddesai/PowerandInfluentialSkills,  https://github.com/alpaddesai/FirmwareDesign,  https://github.com/alpaddesai/ComputerArchitecture and https://github.com/alpaddesai/VerilogHDL
+Advanced knowledge reference : https://github.com/alpaddesai/PowerandInfluentialSkills,  https://github.com/alpaddesai/FirmwareDesign,  https://github.com/alpaddesai/ComputerArchitecture, https://github.com/alpaddesai/VerilogHDL and  https://github.com/alpaddesai/HardwareEngineeringLab4-
 
 ![image](USCopyrightCertificate.png)
-
-Additional details reference : https://github.com/alpaddesai/HardwareEngineeringLab4-
