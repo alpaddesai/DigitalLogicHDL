@@ -1,4 +1,4 @@
-# Digital Logic HDL
+# Digital Logic HDL 2005
 
 The project provides on overview on digital logic HDL
 
