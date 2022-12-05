@@ -6,7 +6,7 @@ Please click on the executable located in https://github.com/alpaddesai/DigitalL
 
 All images are custom or have a reference name.
 
-## Digital logic 8-bit processor
+## Digital logic 8-bit processor 2005
 ![image](CPUImage.png)
 
 ### Using ModelSim student evaluation version
