@@ -13,9 +13,6 @@ All images are custom or have a reference name.
 ### Utilizing Verilog HDL
 ![image](DigitalLogicCPUImage.png)
 
-## Traffic Controller Signal Problem
-![image](TrafficControllerExample.png)
-
 ## Verilog Language
 ![image](VerilogLanguageandApplication.jpg)
 
