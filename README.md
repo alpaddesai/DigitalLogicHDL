@@ -30,4 +30,4 @@ All images are custom or have a reference name.
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge reference : https://github.com/alpaddesai/PowerandInfluentialSkills,  https://github.com/alpaddesai/FirmwareDesign, https://github.com/alpaddesai/ComputerArchitecture, https://github.com/alpaddesai/VerilogHDL and  https://github.com/alpaddesai/HardwareEngineeringLab4-
+Advanced knowledge reference : https://github.com/alpaddesai/DesignEngineering
