@@ -19,6 +19,9 @@ All images are custom or have a reference name.
 ## Verilog
 ![image](Verilog.jpg)
 
+## Traffic Controller
+![image](TrafficControllerExample.png)
+
 ## Algorithms
 ![image](SimulationsPerformanceMetrics.jpg)
 
