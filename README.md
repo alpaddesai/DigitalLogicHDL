@@ -28,4 +28,4 @@ All images are custom or have a reference name.
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge reference : https://github.com/alpaddesai/DesignEngineering
+Advanced knowledge reference : https://github.com/alpaddesai/EmbeddedProgramming
